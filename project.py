@@ -6,6 +6,7 @@
 # # Relationships Between Cryptocurrencies Prices and Regulation Changes
 # 
 # Team: TEAMMATE 1, TEAMMATE 2, Ashton Edakkunnathu, TEAMMATE 3, TEAMMATE 4
+# [names were removed for privacy]
 # 
 # Github Repository Link: [link removed for privacy]
 # 
